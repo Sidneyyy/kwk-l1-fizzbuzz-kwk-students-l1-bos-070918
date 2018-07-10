@@ -8,6 +8,7 @@ elsif int % 5 == 0
 else
   nil
 end
+end
 
 puts fizzbuzz(3)
 puts fizzbuzz(5)
