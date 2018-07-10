@@ -19,3 +19,5 @@ def fizzbuzz(int)
     "Fizzbuzz"
 end
 end
+
+puts fizzbuzz(15)
