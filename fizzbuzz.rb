@@ -4,4 +4,13 @@ def fizzbuzz(int)
 end
 end
 
-puts fizzbuzz(15)
+puts fizzbuzz(3)
+
+def fizzbuzz(int)
+  if int % 5 == 0
+    "Buzz"
+end
+end
+
+fizzbuzz(3)
+fizzbuzz(5)
