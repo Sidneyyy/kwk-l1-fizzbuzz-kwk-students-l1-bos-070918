@@ -21,3 +21,6 @@ end
 end
 
 puts fizzbuzz(15)
+
+def fizzbuzz(int)
+  if int % 
