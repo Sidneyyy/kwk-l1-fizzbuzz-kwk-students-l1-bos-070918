@@ -13,3 +13,9 @@ end
 end
 
 puts fizzbuzz(5)
+
+def fizzbuzz(int)
+  if int % 15 == 0
+    "Fizzbuzz"
+end
+end
